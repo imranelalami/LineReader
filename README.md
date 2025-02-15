@@ -1,14 +1,13 @@
 ```markdown
 # LineReader
 
-LineReader is a C project that reads one line at a time from a file descriptor. It efficiently manages memory and buffer sizes, handling both files and standard input. The project includes a bonus feature that allows handling multiple file descriptors simultaneously using a single static variable.
+LineReader is a C project that reads one line at a time from a file descriptor. It efficiently manages memory and buffer sizes, handling both files and standard input.
 
 ## Features
 
 - Reads one line at a time from a file descriptor.
 - Handles both files and standard input.
 - Efficient memory and buffer size management.
-- Bonus feature for handling multiple file descriptors simultaneously using a static variable.
 
 ## Requirements
 
@@ -40,4 +39,4 @@ Replace `<file_descriptor>` with the file descriptor or input source you wish to
 This project is open-source and available under the MIT License.
 ```
 
-This README includes basic information about the project, requirements, compilation, and usage instructions. You can customize the sections as needed for your specific project.
+This version omits the bonus part and keeps the focus on the core functionality of your project.
