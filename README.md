@@ -1,5 +1,3 @@
-Here’s a simple `README.md` template for your project:
-
 ```markdown
 # LineReader
 
