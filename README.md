@@ -34,9 +34,4 @@ Once compiled, you can run the project with the following command:
 
 Replace `<file_descriptor>` with the file descriptor or input source you wish to read from.
 
-## License
-
-This project is open-source and available under the MIT License.
 ```
-
-This version omits the bonus part and keeps the focus on the core functionality of your project.
