@@ -33,5 +33,3 @@ Once compiled, you can run the project with the following command:
 ```
 
 Replace `<file_descriptor>` with the file descriptor or input source you wish to read from.
-
-```
